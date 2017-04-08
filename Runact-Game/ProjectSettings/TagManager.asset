@@ -6,6 +6,7 @@ TagManager:
   tags:
   - resource
   - Coins
+  - AddTimw
   layers:
   - Default
   - TransparentFX
