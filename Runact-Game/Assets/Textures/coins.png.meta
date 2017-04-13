@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: d325bc78d2c6a4945801629cef03bc48
-timeCreated: 1491144230
+timeCreated: 1492071089
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -94,6 +94,32 @@ TextureImporter:
         y: 511
         width: 45
         height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coins_1
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 338
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coins_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 155
+        width: 54
+        height: 85
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
